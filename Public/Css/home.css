@@ -279,7 +279,9 @@ height:33px; left:0; FONT-WEIGHT: bold; top:190px; position:absolute;}
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
-
+.img-show ul{
+	list-style: none;
+}
 .img-show .img{
 	width: 160px;
 	height: 120px;

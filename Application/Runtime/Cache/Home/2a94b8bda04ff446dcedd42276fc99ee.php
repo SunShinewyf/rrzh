@@ -114,25 +114,47 @@
               <div class="img-show">
                <div class="title">图片展示</div>
                <hr>
-               <div class="img"><img src="/rrzh/Public/Images/static/1.jpg"/>
-                   <div class="desc">趣味运动</div>
-               </div>
-               <div class="img"><img src="/rrzh/Public/Images/static/2.jpg"/>
-                   <div class="desc">趣味运动</div>
-               </div>
-               <div class="img"><img src="/rrzh/Public/Images/static/3.jpg"/>
-                   <div class="desc">趣味运动</div>
-               </div>
-               <div class="img"><img src="/rrzh/Public/Images/static/4.jpg"/>
-                   <div class="desc">趣味运动</div>
-               </div>
+            <div id="scroller_roll1" class="scroller_roll">
+                <ul>
+                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/1.jpg"/></a>
+         <!--               <div class="desc">趣味运动</div> -->
+                   </li>
+                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/2.jpg"/></a>
+                       <!-- <div class="desc">趣味运动</div> -->
+                   </li>
+                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/3.jpg"/></a>
+                       <!-- <div class="desc">趣味运动</div> -->
+                   </li>
+                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/4.jpg"/></a>
+                       <!-- <div class="desc">趣味运动</div> -->
+                   </li>
+                </ul>
             </div>
             </div>
-             
+          </div> 
         </div>
 
     </div>
-    
+   <script type="text/javascript" src="/rrzh/Public/Js/jquery.js"></script>
+   <script language="javascript" type="text/javascript">
+            $(function() {
+                $("#scroller_roll1").scroller_roll({
+                    title_show: 'enable',//enable  disable
+                    time_interval: '15',
+                    window_background_color: "#C1F0FF",
+                    window_padding: '1',
+                    border_size: '1',
+                    border_color: '#0099CC',
+                    images_width: '75',
+                    images_height: '70',
+                    images_margin: '5',
+                    title_size: '12',
+                    title_color: 'black',
+                    show_count: '3'
+                });
+            });
+        </script>
+        
  <div id="footer">
      <p>Powerby SunShine &nbsp;&nbsp;&nbsp 鄂ICP备15002472号-1</p>
     <p>CopyRight©2015 版权所有：SunShine</p>
