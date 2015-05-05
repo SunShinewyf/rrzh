@@ -1,0 +1,80 @@
+<include file="Public:header"/>
+<!-- =================== -->
+<div class="title">
+    <img src="__STYLE__/img/set-db.png"/><h2>全部链接</h2>
+</div>
+<div class="boxwrap">
+    <div class="box">
+        <div class="box-title">
+            版块说明
+        </div>
+        <div class="box-content">
+            <p>你可以在本版块查看网站底部设置的超链接</p>
+        </div>
+    </div>
+</div>
+<div class="boxwrap60">
+    <div class="box">
+        <div class="box-title">
+            所有链接
+        </div>
+        <div class="box-content no-padding">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>链接名</th>
+                    <th>指向</th>
+                    <th>属于</th>
+                    <th>添加者/时间</th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="links" id="vo">
+                    <tr>
+                        <td>{$vo['lid']}</td>
+                        <td>
+                            {$vo['ltitle']}
+                            <div class="operate">
+                                <a href="__URL__/DeleteLink/lid/{$vo['lid']}" class="conf-del btn btn-xs btn-danger">删除</a>
+                            </div>
+                        </td>
+                        <td>{$vo['lhref']}</td>
+                        <td>{$vo['ltype']}</td>
+                        <td>{$vo['aid']}<br/>{$vo['lbuild']}</td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="boxwrap40">
+    <div class="box">
+        <div class="box-title">
+            添加新链接
+        </div>
+        <div class="box-content">
+            <form action="__URL__/SaveLink" method="post" id="form-link">
+                <div class="form-group">
+                    <label for="ltitle">*链接名</label>
+                    <input type="text" class="form-control" id="ltitle" name="ltitle" placeholder="指向的网页名">
+                </div>
+                <div class="form-group">
+                    <label for="lhref">*指向</label>
+                    <input type="text" class="form-control" id="lhref" name="lhref" placeholder="输入http://完整网址">
+                </div>
+                <div class="form-group">
+                    <label for="ltype">*属于</label>
+                    <select class="form-control" id="ltype" name="ltype">
+                        <option value="a" selected>常用链接</option>
+                        <option value="b">院系直达</option>
+                    </select>
+                </div>
+                <button type="botton" class="btn btn-primary" id="essay-subm">确认发布</button>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- ============================= -->
+<include file="Public:footer"/>

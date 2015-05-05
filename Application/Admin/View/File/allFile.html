@@ -1,0 +1,72 @@
+<include file="Public:header"/>
+<!-- header end -->
+<div class="title">
+    <img src="__STYLE__/img/set-db.png"/>
+
+    <h2>文件管理</h2>
+</div>
+<div class="boxwrap">
+    <div class="box">
+        <div class="box-title">版块说明</div>
+        <div class="box-content">
+            <p>本板块管理下载中心的文件。你可以通过左侧板块管理已有的文件（删除）；或者在右侧上传新的文件。</p>
+        </div>
+    </div>
+</div>
+<div class="boxwrap60">
+    <div class="box">
+        <div class="box-title">所有文件</div>
+        <div class="box-content no-padding">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>文件名</th>
+                    <th>文件大小</th>
+                    <th>备注信息</th>
+                    <th>添加者/时间</th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="files" id="vo">
+                    <tr>
+                        <td>{$i}</td>
+                        <td>
+                            {$vo['fname']}
+                            <div class="operate">
+                                <a href="__ROOT__/index.php/Hyzx/xzzq/f/{$vo['fid']}" class="btn btn-xs btn-primary" target="_blank">查看</a>
+                                <a href="__URL__/DeleteFile/id/{$vo['fid']}" class="conf-del btn btn-xs btn-danger">删除</a>
+                            </div>
+                        </td>
+                        <td>{$vo['fsize']}</td>
+                        <td>{$vo['fdescrib']}</td>
+                        <td>{$vo['aid']}<br/>{$vo['fbuild']}</td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="boxwrap40">
+    <div class="box">
+        <div class="box-title">
+            上传新文件
+        </div>
+        <div class="box-content">
+            <form action="__URL__/saveFile" enctype="multipart/form-data" method="post" id="form-admin">
+                <div class="form-group">
+                    <label>选择文件</label>
+                    <input type="file" id="name" name="file">
+                </div>
+                <div class="form-group">
+                    <label for="describ">描述信息</label>
+                    <input type="text" class="form-control" id="describ" name="describ">
+                </div>
+                <input type="submit" class="btn btn-primary" id="admin-subm" value="上传"/>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- footer -->
+<include file="Public:footer"/>

@@ -1,0 +1,25 @@
+   
+           <div class="parts">
+               <h1>联系我们</h1>
+               <div class="content">
+                <p1>公司：{$Infolist['0']['iname']}</p1>
+                <p1>联系人：{$Infolist['0']['icontactor']}</p1>
+                <p1>电话：{$Infolist['0']['iphone']}</p1>
+                <p1>QQ：{$Infolist['0']['iqq']}</p1>
+                <p1>邮箱：{$Infolist['0']['iemail']}</p1>
+                <p1>地址：{$Infolist['0']['iaddress']}</p1>
+               </div>
+           </div>
+           
+            <div class="parts" style="margin-bottom:30px;">
+               <h1>友情链接</h1>
+               <div class="content">
+                <ul class="list">
+                 <volist name="Linklist" id="lk">
+                  <li><a href="{$lk.lurl}">{$lk.lname}</a></li>
+                 </volist>
+                </ul>
+               </div>
+           </div>
+        
+        </div>

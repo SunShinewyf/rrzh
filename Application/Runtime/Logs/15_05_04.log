@@ -1,0 +1,1503 @@
+[ 2015-05-04T15:08:39+08:00 ] ::1 /rrzh/index.php/Admin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:08:39+08:00 ] ::1 /rrzh/index.php/Admin/Index/login.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:08:44+08:00 ] ::1 /rrzh/index.php/Admin/Index/SubmLogin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003133s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_admin` [ RunTime:0.075215s ]
+SQL: SELECT * FROM `rz_admin` WHERE ( aname='admin' ) LIMIT 1   [ RunTime:0.001532s ]
+
+[ 2015-05-04T15:08:45+08:00 ] ::1 /rrzh/index.php/Admin/Index/index
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:08:47+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:08:55+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=2
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:09:00+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=1
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:09:21+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:09:55+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:09:55+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:10:16+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveEdit
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:10:16+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:10:16+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:10:21+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:10:21+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:10:49+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveEdit
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:10:49+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:10:49+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:10:56+08:00 ] ::1 /rrzh/index.php/Admin/System
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:index
+
+[ 2015-05-04T15:11:02+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:11:02+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:11:26+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveEdit
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:11:26+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:11:27+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:11:31+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:11:31+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:16:39+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003356s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.012110s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001477s ]
+
+[ 2015-05-04T15:16:40+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:16:40+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:16:48+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:16:48+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003886s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.017662s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001983s ]
+
+[ 2015-05-04T15:16:48+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:19:03+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:19:03+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:20:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:20:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:20:51+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:20:52+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003261s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.015994s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.002108s ]
+
+[ 2015-05-04T15:20:52+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:20:58+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004211s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.015235s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = '0' )  [ RunTime:0.001541s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'gsgk' ) ORDER BY cprior  [ RunTime:0.001659s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'zspx' ) ORDER BY cprior  [ RunTime:0.001615s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'lxwm' ) ORDER BY cprior  [ RunTime:0.001344s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'jlb' ) ORDER BY cprior  [ RunTime:0.001287s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'sscb' ) ORDER BY cprior  [ RunTime:0.001324s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'hdch' ) ORDER BY cprior  [ RunTime:0.001387s ]
+SQL: SELECT * FROM `rz_column` WHERE ( cparent = 'qwhd' ) ORDER BY cprior  [ RunTime:0.001319s ]
+SQL: SELECT * FROM `rz_column` WHERE ( `code` = 'gsjj' ) LIMIT 1   [ RunTime:0.001268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000723s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Undefined variable: PageTitle G:\wamp\www\rrzh\Application\Runtime\Cache\Admin\d9ace045bb5a8001310cc3168dbf7117.php 第 4 行.
+NOTIC: [8] Undefined variable: adminName G:\wamp\www\rrzh\Application\Runtime\Cache\Admin\d9ace045bb5a8001310cc3168dbf7117.php 第 22 行.
+NOTIC: [8] Undefined variable: action G:\wamp\www\rrzh\Application\Runtime\Cache\Admin\d9ace045bb5a8001310cc3168dbf7117.php 第 121 行.
+NOTIC: [8] Undefined variable: action G:\wamp\www\rrzh\Application\Runtime\Cache\Admin\d9ace045bb5a8001310cc3168dbf7117.php 第 127 行.
+NOTIC: [8] Undefined variable: parcol G:\wamp\www\rrzh\Application\Runtime\Cache\Admin\d9ace045bb5a8001310cc3168dbf7117.php 第 144 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.050116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001915s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003646s ]
+
+[ 2015-05-04T15:20:58+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:20:58+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:22:27+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:22:27+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:22:35+08:00 ] ::1 /rrzh/index.php/Admin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:22:40+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:22:41+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:22:59+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:22:59+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:23:00+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:23:04+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:23:04+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004300s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.018110s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001566s ]
+
+[ 2015-05-04T15:23:04+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:23:55+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:23:55+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003595s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.016484s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001593s ]
+
+[ 2015-05-04T15:23:56+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:24:44+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:24:45+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:14+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:14+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:27+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveEdit
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:27+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:27+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:26:32+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:32+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:26:51+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:51+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:26:54+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003598s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.010369s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjg' ) LIMIT 1   [ RunTime:0.001342s ]
+
+[ 2015-05-04T15:26:54+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:26:55+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:27:13+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveEdit
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:27:13+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:27:14+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:27:17+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:27:17+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:27:27+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/lqpx
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:27:28+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/lqpx
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002694s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.015540s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'lqpx' ) LIMIT 1   [ RunTime:0.001534s ]
+
+[ 2015-05-04T15:27:28+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:28:03+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:28:27+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003663s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.011756s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('这是一篇新文章','信息学院学习传达学校暑期中层干部培训班精神','信息学院','gsjg','2015-05-04 15:28:27','admin') [ RunTime:0.001482s ]
+
+[ 2015-05-04T15:28:29+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:30:25+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:30:30+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:30:30+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:31:10+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:31:10+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:31:12+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:31:16+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:31:17+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:32:57+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:32:57+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:36:36+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:36:36+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:36:40+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:36:40+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003875s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.019084s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.002527s ]
+
+[ 2015-05-04T15:37:05+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003304s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.010939s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001699s ]
+
+[ 2015-05-04T15:37:05+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:47:23+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:47:23+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:47:27+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:47:27+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003509s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.014672s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjg' ) LIMIT 1   [ RunTime:0.001307s ]
+
+[ 2015-05-04T15:48:02+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:48:02+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:48:03+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:49:38+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:49:38+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:50:04+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:50:04+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:50:07+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:50:07+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003474s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.012856s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjg' ) LIMIT 1   [ RunTime:0.001123s ]
+
+[ 2015-05-04T15:50:07+08:00 ] ::1 /rrzh/index.php/Admin/__URL__/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:setcolumn
+
+[ 2015-05-04T15:50:39+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003042s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.013670s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjg' ) LIMIT 1   [ RunTime:0.001226s ]
+
+[ 2015-05-04T15:50:39+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:50:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:50:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:51:40+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:51:40+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:52:13+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:52:13+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:52:17+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:52:17+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:52:26+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:52:27+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:52:47+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:52:47+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:53:54+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:53:55+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:53:55+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:54:12+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:54:12+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:54:12+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:54:40+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:54:41+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:54:41+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:54:59+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:00+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:00+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:55:15+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:15+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:15+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:55:49+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004202s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.012689s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001514s ]
+
+[ 2015-05-04T15:55:49+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:49+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:49+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:55:55+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:55:55+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:56:07+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:07+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:07+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:56:27+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:27+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:28+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:56:31+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004248s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.014111s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001512s ]
+
+[ 2015-05-04T15:56:31+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:32+08:00 ] ::1 /rrzh/index.php/Admin/System/edit/code/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:35+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveEdit
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:35+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:36+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:56:56+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:57+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:56:57+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:57:15+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:57:15+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:57:15+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:57:37+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:57:37+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:57:37+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:57:54+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:57:54+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:57:54+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:58:14+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:58:14+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:58:14+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T15:58:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:58:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T15:58:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:01:30+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:01:30+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:01:30+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:02:09+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:02:09+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:02:12+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004126s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.011199s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjg' ) LIMIT 1   [ RunTime:0.001367s ]
+
+[ 2015-05-04T16:02:12+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjg
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:02:20+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004718s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.015196s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001351s ]
+
+[ 2015-05-04T16:02:20+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:02:47+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004366s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.011630s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001189s ]
+
+[ 2015-05-04T16:02:47+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:03:59+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:04:39+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:05:23+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:05:27+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003576s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.012089s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001232s ]
+
+[ 2015-05-04T16:05:27+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:05:46+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:22+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:22+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:22+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:06:27+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:27+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:06:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:06:48+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:49+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:06:49+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:07:02+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:03+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:03+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:07:05+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004382s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.011084s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001245s ]
+
+[ 2015-05-04T16:07:05+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:05+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:05+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:07:42+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:42+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:07:51+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:51+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:51+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:07:59+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:59+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:07:59+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:08:12+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:08:13+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:08:13+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:08:15+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:08:15+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.008531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009559s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.015760s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001297s ]
+
+[ 2015-05-04T16:08:15+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:08:15+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:09:05+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:05+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:09:13+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:14+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:14+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:09:21+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:21+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:21+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:09:41+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:41+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:09:42+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:09:44+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004189s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.014465s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001224s ]
+
+[ 2015-05-04T16:09:45+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:11:41+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:11:41+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:11:43+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003593s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.011942s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001175s ]
+
+[ 2015-05-04T16:11:43+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:11:43+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:11:44+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:12:29+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:12:29+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:12:35+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:12:35+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:12:35+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:12:41+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:12:42+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:12:42+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:12:44+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003955s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.011797s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsjj' ) LIMIT 1   [ RunTime:0.001150s ]
+
+[ 2015-05-04T16:12:44+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:13:13+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:13:32+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:13:39+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsjj
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:13:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:13:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:14:25+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:14:25+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:14:25+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:14:28+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003017s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.012070s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001289s ]
+
+[ 2015-05-04T16:14:28+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:15:29+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:15:42+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:15:43+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:15:55+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:15:55+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:15:55+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:15:58+08:00 ] ::1 /rrzh/index.php/Admin/System/getDescribeByCode/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004798s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_column` [ RunTime:0.013534s ]
+SQL: SELECT `cname`,`cdescribe` FROM `rz_column` WHERE ( `code`= 'gsgk' ) LIMIT 1   [ RunTime:0.001200s ]
+
+[ 2015-05-04T16:15:58+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:16:17+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:20:31+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/gsgk
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:20:31+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:20:32+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:20:52+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:20:52+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:21:00+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:00+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:01+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:21:11+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:11+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:11+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:21:26+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:26+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:26+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:21:43+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:44+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:21:44+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:22:00+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:22:00+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:22:01+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:22:20+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:22:20+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:22:21+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:22:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:22:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:22:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:23:03+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:23:03+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:23:04+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-04T16:32:47+08:00 ] ::1 /rrzh/index.php/Admin/System/SaveColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:32:47+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-04T16:32:48+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+

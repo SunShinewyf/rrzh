@@ -1,0 +1,42 @@
+<include file="Public:header"/>
+
+<div id="container">
+	 <div class="main-left">
+          <div class="parts">
+               <h1>{$ParCol['cname']}</h1>
+               <div class="content">
+                <ul class="list">
+                <volist name="SubCols" id="Su">
+                  <li><a href="__URL__/Essaylist/code/{$Su['code']}">{$Su['cname']}</a></li>
+                </volist>
+                </ul>
+               </div>
+           </div>
+    <include file="Public:main_left"/>
+    <div class="main-right">
+         <div class="detail">
+                <div class="title">
+                  <if condition="$parent eq '0'">
+                    当前位置&nbsp;:&nbsp;<a href="__URL__/Index">首页</a> >> <a href="__URL__/Essaylist/code/{$CurCol['code']}">{$CurCol['cname']}</a>
+                  <else/>
+                   当前位置&nbsp;:&nbsp;<a href="__URL__/Index">首页</a> >> <a href="__URL__/Essaylist/code/{$ParCol['code']}">{$ParCol['cname']}</a> >> <a href="__URL__/Essaylist/code/{$CurCol['code']}">{$CurCol['cname']}</a>
+                 </if>  
+                </div>
+                <hr>
+                <ul class="title-detail">
+                    <volist name="select" id="li">
+                         <li class="style2"><a href="__URL__/EssayDetail/e/{$li['eid']}">{$li['etitle']|subtext=22}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>{$li['erevise']}</span></li>
+                    </volist>
+                </ul>
+               <div class="pages">
+                        {$page}
+                </div>
+
+
+         </div>
+
+    </div>
+
+
+</div>
+<include file="Public:footer"/>

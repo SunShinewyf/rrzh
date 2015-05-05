@@ -1,0 +1,106 @@
+<include file="Public:header"/>
+<!-- ====== -->
+<div class="title">
+    <img src="__IMAGES__/set-db.png"/><h2>全部文章</h2>
+</div>
+<div class="boxwrap40">
+    <div class="box">
+        <div class="box-title">
+            版块说明
+        </div>
+        <div class="box-content">
+            <p>你可以在本版块查看已发布的文章。</p>
+            <p>有几个栏目，点击之后直接就是某篇文章。这样的文章其实就是“栏目描述”，一般不需要经常性修改。请联系“超级管理员”在“系统设置”->“栏目设置”下做修改。</p>
+            <p>你也可以点击按钮&nbsp;<a href="__URL__/BuildEssay" class="btn btn-primary btn-xs">写新文章</a></p>
+        </div>
+    </div>
+</div>
+<div class="boxwrap60">
+    <div class="box">
+        <div class="box-title">
+            筛选条件
+        </div>
+        <div class="box-content essayfilter">
+            <div class="form-group">
+                <form action="__ACTION__" method="get" id="essayfilter">
+                <span>选项搜索：</span>
+                <select name="filteby">
+                    <option value="title" selected>标题：</option>
+                    <option value="from">作者/来源：</option>
+                    <option value="admin">上传者：</option>
+                </select>
+                <input type="text" name="kw"/>
+                <input type="submit" class="btn btn-primary btn-xs" value="搜索" />
+                </form>
+            </div>
+            <div class="form-group">
+                <span>选择栏目：</span>
+                <select id="cpar" name="cpar">
+                    <option value="0" selected>先选择父栏目</option>
+                    <volist name="parcol" id="parcol">
+                        <option value="{$parcol['code']}">{$parcol['cname']}</option>
+                    </volist>
+                </select>
+                <select id="code" name="code" style="display: none;">
+                    <option value="0" selected>请先选择父栏目</option>
+                </select>
+            </div>
+            <notempty name="CurFilte">
+                <p>筛选{$CurFilte}&nbsp;得到&nbsp;<strong>{$count}</strong>&nbsp;条结果&nbsp;&nbsp;<a href="__ACTION__" class="btn btn-danger btn-xs">去除筛选</a></p>
+            </notempty>
+            <span>对当前结果：</span>
+            <a href="__ACTION__?{$orderUrl}order=build" class="btn btn-primary btn-xs" title="按发布时间排序">按发布时间排序</a>
+            <a href="__ACTION__?{$orderUrl}order=read" class="btn btn-primary btn-xs" title="按阅读量排序">按阅读量排序</a>
+            <a href="__ACTION__?{$orderUrl}order=revise" class="btn btn-primary btn-xs" title="按最近修改排序">按最近修改排序</a>
+        </div>
+    </div>
+</div>
+<div class="boxwrap">
+    <div class="box">
+        <div class="box-title">
+            已发布文章
+        </div>
+        <div class="box-content no-padding">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>标题</th>
+                    <th>作者/来源</th>
+                    <th>所属栏目</th>
+                    <th>阅读量</th>
+                    <th>上传者/发布时间</th>
+                    <th>最近修改时间</th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="list" id="vo">
+                    <tr>
+                        <td>{$vo['eid']}</td>
+                        <td>
+                            {$vo['etitle']}<br/>
+                            <span class="operate">
+                            <a href="__URL__/BuildEssay/eid/{$vo['eid']}" class="btn btn-xs btn-warning">再编辑</a>
+                            <a href="__URL__/DeleteEssay/eid/{$vo['eid']}" class="conf-del btn btn-xs btn-danger">删除</a>
+                            <a href="__APP__/Home/Index/EssayDetail/e/{$vo['eid']}" class="btn btn-xs btn-primary" target="_blank">查看</a>
+                            </span>
+                        </td>
+                        <td>{$vo['efrom']}</td>
+                        <td>{$vo['code']}</td>
+                        <td>{$vo['etimes']}</td>
+                        <td>{$vo['aname']}<br/>{$vo['ebuild']}</td>
+                        <td>{$vo['erevise']}</td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+            <div class="page">{$page}</div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var SelectData = $.parseJSON('{$sublist}');
+    CheckSelectData();
+</script>
+<!-- ============= -->
+<include file="Public:footer"/>

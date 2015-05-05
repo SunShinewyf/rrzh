@@ -1,0 +1,354 @@
+[ 2015-04-29T13:51:26+08:00 ] ::1 /rrzh/index.php/Admin/Login
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:51:29+08:00 ] ::1 /rrzh/index.php/Admin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:51:29+08:00 ] ::1 /rrzh/index.php/Admin/Index/login.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:51:37+08:00 ] ::1 /rrzh/index.php/Admin/Index/SubmLogin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002119s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_admin` [ RunTime:0.083968s ]
+SQL: SELECT * FROM `rz_admin` WHERE ( aname='admin' ) LIMIT 1   [ RunTime:0.001525s ]
+
+[ 2015-04-29T13:51:37+08:00 ] ::1 /rrzh/index.php/Admin/Index/index
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:53:14+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:54:27+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:54:36+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.009283s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('adfhdfah','dagfs','dfah','gsjj','2015-04-29 13:54:36','admin') [ RunTime:0.001667s ]
+
+[ 2015-04-29T13:54:39+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:54:49+08:00 ] ::1 /rrzh/index.php/Admin/Essay/DeleteEssay/eid/32
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:54:49+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:54:53+08:00 ] ::1 /rrzh/index.php/Admin/Essay/DeleteEssay/eid/31
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:54:53+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:55:52+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:55:54+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T13:56:03+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.012246s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('sdafhf','dahh','adfhhfd',null,'2015-04-29 13:56:03','admin') [ RunTime:0.001267s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('sdafhf','dahh','adfhhfd',null,'2015-04-29 13:56:03','admin')
+
+[ 2015-04-29T14:02:06+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002140s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.010246s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('sdafhf','dahh','adfhhfd',null,'2015-04-29 14:02:06','admin') [ RunTime:0.001249s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('sdafhf','dahh','adfhhfd',null,'2015-04-29 14:02:06','admin')
+
+[ 2015-04-29T14:09:18+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:09:30+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.010932s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('二话东方红','asdg','asdg',null,'2015-04-29 14:09:30','admin') [ RunTime:0.001268s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('二话东方红','asdg','asdg',null,'2015-04-29 14:09:30','admin')
+
+[ 2015-04-29T14:10:18+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003570s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.070701s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('二话东方红','asdg','asdg',null,'2015-04-29 14:10:18','admin') [ RunTime:0.001079s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('二话东方红','asdg','asdg',null,'2015-04-29 14:10:18','admin')
+
+[ 2015-04-29T14:11:36+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:11:45+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003616s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.010296s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('adhdfsh','asdgdag','adhdhsf',null,'2015-04-29 14:11:45','admin') [ RunTime:0.001322s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('adhdfsh','asdgdag','adhdhsf',null,'2015-04-29 14:11:45','admin')
+
+[ 2015-04-29T14:12:11+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004717s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.013336s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('adhdfsh','asdgdag','adhdhsf',null,'2015-04-29 14:12:11','admin') [ RunTime:0.000922s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('adhdfsh','asdgdag','adhdhsf',null,'2015-04-29 14:12:11','admin')
+
+[ 2015-04-29T14:16:31+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002965s ]
+NOTIC: [8] Undefined index: cpar G:\wamp\www\rrzh\Application\Admin\Controller\EssayController.class.php 第 178 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.010976s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('啊大河网','asdgdag','adhdhsf',null,'2015-04-29 14:16:31','admin') [ RunTime:0.001082s ]
+ERR: 1048:Column 'code' cannot be null
+ [ SQL语句 ] : INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('啊大河网','asdgdag','adhdhsf',null,'2015-04-29 14:16:31','admin')
+
+[ 2015-04-29T14:25:14+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:25:24+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003483s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.016477s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('asdhdfah','asdgdah','adhah','jlb','2015-04-29 14:25:24','admin') [ RunTime:0.019487s ]
+
+[ 2015-04-29T14:25:27+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:25:35+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:25:45+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003077s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.008808s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('sadgah','asdhdfh','dahdfah','qwhd','2015-04-29 14:25:45','admin') [ RunTime:0.001005s ]
+
+[ 2015-04-29T14:25:47+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:25:58+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:26:00+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:26:07+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002661s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.019629s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('asdhdah','asdgdafh','asdhfhj','jlb','2015-04-29 14:26:07','admin') [ RunTime:0.001445s ]
+
+[ 2015-04-29T14:26:09+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:27:57+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:30:52+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001874s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.007073s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;text-align:center;background-color:#FFFFFF;\">\n	情何以堪啊，这就是中国当代<a href=\"http://www.dxsbb.com/news/list_4.html\" class=\"keyWord\" target=\"_blank\"><strong>大学生活</strong></a>现状\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	现在的中国大学是一个怪胎，进去的是精英，出来的是蒲公英；提高的是学费，降低的是教学质量；增加的是<a href=\"http://www.dxsbb.com/news/list_76.html\" class=\"keyWord\" target=\"_blank\"><strong>专业</strong></a>数量，减少的是<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>就业</strong></a>质量......\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p align=\"center\" style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<img alt=\"情何以堪啊，这就是中国当代大学生活现状\" title=\"情何以堪啊，这就是中国当代大学生活现状\" src=\"http://www.dxsbb.com/upFiles/infoImg/coll/20150428/OT20150428221125219.jpg\" />\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p align=\"center\" style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<span style=\"color:#FFFFFF;background-color:#0066FF;\">1、药只开便宜的</span>\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	国家每年拨给<a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%D1%A7%C9%FA.html\" class=\"keyWord\" target=\"_blank\"><strong>大学生</strong></a>一笔不菲的医疗费，但当我们生病时，开出的药却是最便宜的。这还不算，一次，一个同学买了一袋抗菌优，出厂日期竟是1989年的！比他还要早出生几年。真不知道医疗费都跑哪去了！\n</p>\n<p align=\"center\" style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<img alt=\"情何以堪啊，这就是中国当代大学生活现状\" title=\"情何以堪啊，这就是中国当代大学生活现状\" src=\"http://www.dxsbb.com/upFiles/infoImg/coll/20150428/OT20150428221125208.jpg\" />\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p align=\"center\" style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<span style=\"color:#FFFFFF;background-color:#0066FF;\">2、<a href=\"http://www.dxsbb.com/news/list_18.html\" class=\"keyWord\" target=\"_blank\"><strong>爱情</strong></a>之花多在<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>毕业</strong></a>时枯萎</span>\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	大学的爱情是最美好的，没有中学时的稚气，没有大龄者的枯燥，有的只是激情和单纯。但美好的东西多很短暂，大学里没有<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>工作</strong></a>和生活的压力，可是爱情多是建立在经济基础稳定的基础上。一旦毕业，面临就业、成家等诸多现实，爱情不再坚强，而是严重缺钙，枯萎是自然的事情。\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp;\n</p>\n<p align=\"center\" style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<img alt=\"情何以堪啊，这就是中国当代大学生活现状\" title=\"情何以堪啊，这就是中国当代大学生活现状\" src=\"http://www.dxsbb.com/upFiles/infoImg/coll/20150428/OT20150428221125130.jpg\" width=\"400\" />\n</p>','情何以堪啊，这就是中国当代大学生活现状','SunShine','hdch','2015-04-29 14:30:52','admin') [ RunTime:0.001224s ]
+
+[ 2015-04-29T14:30:55+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:31:16+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:31:49+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005293s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.012250s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;text-align:center;background-color:#FFFFFF;\">\n	<img alt=\"当毕业真正到来时，我们是如此的眷恋和不舍！\" title=\"当毕业真正到来时，我们是如此的眷恋和不舍！\" src=\"http://www.dxsbb.com/upFiles/infoImg/2015041980017833.jpg\" width=\"400\" /><br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;text-align:center;background-color:#FFFFFF;\">\n	当<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>毕业</strong></a>真正到来时，我们是如此的眷恋和不舍！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　毕业总是伴随着离别的愁绪，当相处四年的同学一个个拖着行李离开时，“再见”两个字是如此的沉重，也许还没说出口就早已泣不成声，但天下无不散之筵席，今次离别，不管后会有期还是无期，最后还是会笑着挥手说再见。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　当我们还是学生的时候，总觉得毕业离我们还很遥远，不用急着担心未来的事，每天该玩的玩，想做的事情就去做，率性而为；每送走一届师兄师姐，我们会感慨一番，然后几个人围在一起谈论着以后我们毕业时的情景，但是过后还是会一如既往地过着<a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%D1%A7%C9%FA.html\" class=\"keyWord\" target=\"_blank\"><strong>大学生</strong></a>的生活，逃课、上课玩手机、谈<a href=\"http://www.dxsbb.com/news/list_18.html\" class=\"keyWord\" target=\"_blank\"><strong>恋爱</strong></a>....每天都过得跟平时没什么两样。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　但毕业真正到来的时候，我们才突然发现，原来我们对大学校园是如此的眷恋和不舍，这里有我们的太多的回忆和<a href=\"http://www.dxsbb.com/news/list_30.html\" class=\"keyWord\" target=\"_blank\"><strong>故事</strong></a>，过去发生的一幕幕情景开始浮现在脑海里。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　还记得，刚开始梦寐以求的<a href=\"http://www.dxsbb.com/news/list_4.html\" class=\"keyWord\" target=\"_blank\"><strong>大学生活</strong></a>时，一张张稚嫩的<a href=\"http://www.dxsbb.com/news/list_80.html\" class=\"keyWord\" target=\"_blank\"><strong>新生</strong></a>面孔是校园里面一道道美丽的风景线，我们来自五湖四海，从陌生到熟悉，从熟悉到了解，这一过程，有我们共同的美好回忆。青春而充满活力的我们每天穿梭于校园的各个角落，教室、图<a href=\"http://www.dxsbb.com/news/list_79.html\" class=\"keyWord\" target=\"_blank\"><strong>书</strong></a>馆、运动场、湖边、宿舍、饭堂......这些地方都留下过我们的痕迹，只是那时的我们都没有想过现在的我们会如此怀念过去的点点滴滴。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　.毕业之后，我们才发现四年的时间可以让你变化如此之大。四年前，我们对一切都充满好奇，什么都想去尝试，不过结果怎样，我们都觉得无所谓，因为在我们看来，过程比结果更重要。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　正因为这样的心态，我们有了无数次第一次，第一次<a href=\"http://www.dxsbb.com/news/list_40.html\" class=\"keyWord\" target=\"_blank\"><strong>面试</strong></a>，第一次去KTV，第一次当主持，第一次参加唱歌比赛，第一次<a href=\"http://www.dxsbb.com/news/list_36.html\" class=\"keyWord\" target=\"_blank\"><strong>兼职</strong></a>......\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　现在想想，其实我们的大学生活真可以算得上是多姿多彩。有欢乐当然也会有悲伤。还记得，当男篮在班级篮球冠军争夺赛上因一分之差未能夺得冠军的时候，我清楚地记得大家脸上悲伤和遗憾的表情；当最关心我们，为我们付出很多辛劳的代理班主任离开的时候，我还依稀记得大家那依依不舍的心情；当班上跟我们相处两年的同学突然要转走的时候，我还记得欢送晚会上那种充满伤感的气氛。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　不管是悲伤还是欢乐，我们曾经经历的都已经成为往事，我们会怀念但不会停留在回忆里。四年后的今天，我们没有了以往的放荡不羁，四年的大学生活塑造了成熟理性的我们，当我们把四年前和现在的照片拿出来比较的时候，我们不得不相信，岁月真的是一把杀猪刀，无情地夺走了我们的光阴，此时我们也会问这样一些很傻的问题：为什么我们要毕业，为什么我们要分离，为什么我们要<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>工作</strong></a>…..如果要我回答，我会说，如果没有毕业，也许我永远都不知道回忆的美好；如果没有分离，也许我永远都知道你们在我生命中的地位；如果没有工作，也许我永远都不知道我自己存在的意义。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　四年间，我们各自演绎着自己的故事，也许每个人的故事都不一样，但是我觉得其中夹带的情感，大家都能体会得到，此时此刻的你们，脑海里是否也不停地浮现出各种画面呢？毕业不代表什么，它只是提醒我们要学会珍惜，学会生活。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　虽然即将告别学生时代，但是也应该对未来充满期待。过去是拿来回忆的，而未来要靠自己去创造，<a href=\"http://www.dxsbb.com/news/list_44.html\" class=\"keyWord\" target=\"_blank\"><strong>人生</strong></a>的无限可能性由我们来发现。不管是已经求得工作的<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>毕业生</strong></a>还是正在<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>找工作</strong></a>的毕业生，都希望大家能够对生活充满信心和希望，在一切阻碍面前挺起你们坚实的胸膛，傲然向前。\n</div>','当毕业真正到来时，我们是如此的眷恋和不舍！','SunShine','qwhd','2015-04-29 14:31:49','admin') [ RunTime:0.002287s ]
+
+[ 2015-04-29T14:31:51+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:32:13+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:33:02+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003663s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.015272s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n徘徊在考研边缘的人，一定想知道的一些问题&nbsp;<a href=\"http://www.dxsbb.com/news/542.html\">http://www.dxsbb.com/news/542.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n<a href=\"http://www.dxsbb.com/news/?list_mark-%B6%FE%B1%BE.html\" class=\"keyWord\" target=\"_blank\"><strong>二本</strong></a>、<a href=\"http://www.dxsbb.com/news/?list_mark-%C8%FD%B1%BE.html\" class=\"keyWord\" target=\"_blank\"><strong>三本</strong></a>学校，多半人都选择了考研，考研到底有多重要？&nbsp;<a href=\"http://www.dxsbb.com/news/790.html\">http://www.dxsbb.com/news/790.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n哪些人适合考研？<a href=\"http://www.dxsbb.com/news/631.html\">http://www.dxsbb.com/news/631.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n考研一定要有目的性&nbsp;<a href=\"http://www.dxsbb.com/news/947.html\">http://www.dxsbb.com/news/947.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n考研没有动力？—适合作为考研的4大动力&nbsp;<a href=\"http://www.dxsbb.com/news/617.html\">http://www.dxsbb.com/news/617.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n普通二本到名校<a href=\"http://www.dxsbb.com/news/list_41.html\" class=\"keyWord\" target=\"_blank\"><strong>研究生</strong></a>的蜕变——看了至少多考50分&nbsp;<a href=\"http://www.dxsbb.com/news/180.html\">http://www.dxsbb.com/news/180.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n考研心得&nbsp;<a href=\"http://www.dxsbb.com/news/950.html\">http://www.dxsbb.com/news/950.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n自考生到985的嬗变——记我艰辛的考研之路&nbsp;<a href=\"http://www.dxsbb.com/news/375.html\">http://www.dxsbb.com/news/375.html</a>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n考研很重要，做自己更重要&nbsp;<a href=\"http://www.dxsbb.com/news/740.html\">http://www.dxsbb.com/news/740.html</a>\n</div>','考研知多少？','SunShine','lqpx','2015-04-29 14:33:02','admin') [ RunTime:0.001727s ]
+
+[ 2015-04-29T14:33:05+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:33:16+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:33:50+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.007086s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;text-align:center;background-color:#FFFFFF;\">\n	<img alt=\"给还没有毕业孩子的一些忠告，一切还来得及！\" title=\"给还没有毕业孩子的一些忠告，一切还来得及！\" src=\"http://www.dxsbb.com/upFiles/infoImg/2014050831794377.png\" width=\"500\" />\n</p>\n<p style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	&nbsp; &nbsp; &nbsp; &nbsp; 哥今年<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>毕业</strong></a>，上的不是什么好大学，名不见经传的<a href=\"http://www.dxsbb.com/news/?list_mark-%B6%FE%B1%BE.html\" class=\"keyWord\" target=\"_blank\"><strong>二本</strong></a>院校。在这里哥作为一个师哥，给弟弟妹妹们一些告诫，如果你有幸看到了，代表咱哥们有缘，没白费我一片苦心，如果你听取了，代表你有福气能少走写弯路。就算你爹是李刚，他也只能给你俩臭钱让你惯出写臭毛病，所以官二代，后二代，富二代不用绕行。\n</p>\n<br />\n<span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;color:#0000CD;background-color:#FFFFFF;\"><strong>第一条，无论你喜不喜欢，都要<a href=\"http://www.dxsbb.com/news/list_82.html\" class=\"keyWord\" target=\"_blank\"><strong>学习</strong></a></strong></span><br />\n<br />\n<span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">　　大学里的课程的确是松的很，自制力差的同学就掉进深渊不能自拔了。为什么这么说呢，因为我想告诉你们，长期不学习对于年轻人的智力的危害有多大。现在大家不觉得，整天嘻嘻哈哈，游手好闲，课本新的跟什么似的，哪个老师教哪门课也不清楚，但是当这种习惯持续上一段时间，不用多，一年就好，你就会发现自己的智商有所退化，好多东西记不住，注意力无法集中，思维不够缜密，做事丢三落四。这就是长期不动脑子的后果。不是耸人听闻，我身边的好多混混同学都出现这样的症状。所以，哪怕这门课你不喜欢也不要紧，该有的思路总得有，该记住的东西总得记住，不是为了别的，就是为了不让你成为脑残。</span><br />\n<br />\n<span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;color:#0000CD;background-color:#FFFFFF;\"><strong>第二条，别拜金，别只图短暂的利益，别被社会浮躁化。</strong></span><br />\n<br />\n<span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">　　我们学校好多弟弟妹妹都忙着</span><a href=\"http://www.dxsbb.com/news/list_36.html\" class=\"keyWord\" target=\"_blank\"><strong>赚钱</strong></a><span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">了，碰到过不少，</span><a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%D2%BB.html\" class=\"keyWord\" target=\"_blank\"><strong>大一</strong></a><span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">来就急着</span><a href=\"http://www.dxsbb.com/news/list_36.html\" class=\"keyWord\" target=\"_blank\"><strong>打工</strong></a><span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">，做小生意赚钱，我的天啊，舍本逐末，目光短浅之辈。不是说钱没用，也不是说不应该社会实践，只是说没有必要这样。除非你的家庭让你非这样不可，除非你发现了一个灰常牛逼的商机不可以错过。有一个师哥家里极度困难，他就休学一年去北京打工，一年后回来接着上学，现在考上了</span><a href=\"http://www.dxsbb.com/news/list_41.html\" class=\"keyWord\" target=\"_blank\"><strong>研究生</strong></a><span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">。现在的媒体也整天做一些这样的报道，哪个哪个</span><a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%D1%A7%C9%FA.html\" class=\"keyWord\" target=\"_blank\"><strong>大学生</strong></a><span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">又</span><a href=\"http://www.dxsbb.com/news/list_36.html\" class=\"keyWord\" target=\"_blank\"><strong>创业</strong></a><span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">赚了多少钱，哪个哪个牛逼的人是从大学里经商开始的。这样的报道多了对于大学生很是有诱惑性，但当大家都开始做拜金梦的时候，老师和家长都淡然摇头，因为他们知道你忘本了。你现在真正应该做的是功夫活。</span><br />\n<br />\n<span style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;line-height:27px;background-color:#FFFFFF;\">　　功夫活就是短时间内不能见效但是，一旦学会别人就不能超越的东西，换句话说现在应该干的是投资而不是赚钱。这点若果你否认那么只能说你目光相当的短，劝也白劝。</span>','给还没有毕业孩子的一些忠告，一切还来得及！','SunShine','sscb','2015-04-29 14:33:50','admin') [ RunTime:0.001336s ]
+
+[ 2015-04-29T14:33:52+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:44:40+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:44:56+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:45:07+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__ACTION__?p=3
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__action__
+
+[ 2015-04-29T14:45:11+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__ACTION__?p=2
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__action__
+
+[ 2015-04-29T14:45:16+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__ACTION__?p=2
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__action__
+
+[ 2015-04-29T14:47:51+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:47:57+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=2
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:48:04+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=3
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:48:07+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=1
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:48:09+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=2
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T14:48:12+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay?p=3
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-04-29T15:19:47+08:00 ] ::1 /rrzh/index.php/Home/EssayList
+ERR: 无法加载控制器:EssayList
+
+[ 2015-04-29T15:20:05+08:00 ] ::1 /rrzh/index.php/Home/EssayList
+ERR: 无法加载控制器:EssayList
+

@@ -1,0 +1,94 @@
+<include file="Public:header"/>
+<!-- ============== -->
+<div class="title">
+    <img src="__IMAGES__/set-db.png"/><h2>管理员列表</h2>
+</div>
+<div class="boxwrap">
+    <div class="box">
+        <div class="box-title">版块说明</div>
+        <div class="box-content">
+            <p>本系统管理员分为3级：“普通管理员”、“系统管理员”以及“root管理员”；访问本模块需要“超级管理员”权限。</p>
+            <p>本页面的左侧列出的是本系统当前存在的管理员（不显示你自己），如果你是root，还能看到所有的root管理员；</p>
+            <p>右侧是添加管理员需要填写的表单；</p>
+            <p>·【删除管理员】你只能更改由你添加的“普通管理员”；root管理员才能对所有管理员进行操作；</p>
+            <p>·【添加管理员】你只能添加“普通管理员”；如果你是root管理员，还可以添加“超级管理员”；</p>
+        </div>
+    </div>
+</div>
+<div class="boxwrap60">
+    <div class="box">
+        <div class="box-title">
+            所有管理员
+        </div>
+        <div class="box-content no-padding">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>昵称</th>
+                    <th>权限</th>
+                    <th>备注信息</th>
+                    <th>添加者/时间</th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="admins" id="vo">
+                    <tr>
+                        <td>{$vo['aid']}</td>
+                        <td>
+                            {$vo['aname']}
+                            <eq name="vo['AllowOperate']" value="true">
+                            <div class="operate">
+                                <a href="__URL__/DeleteAdmin/id/{$vo['aid']}" class="conf-del btn btn-xs btn-danger">删除</a>
+                            </div>
+                            </eq>
+                        </td>
+                        <td>{$vo['auth']}</td>
+                        <td>{$vo['amsg']}</td>
+                        <td>{$vo['abuildby']}<br/>{$vo['abuild']}</td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="boxwrap40">
+    <div class="box">
+        <div class="box-title">
+            添加新管理员
+        </div>
+        <div class="box-content">
+            <form action="__URL__/BuildAdmin" method="post" id="form-admin">
+                <div class="form-group">
+                    <label for="name">*称呼</label>
+                    <input type="text" class="form-control" id="name" name="name">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">*初始密码</label>
+                    <input type="text" class="form-control" id="pwd" name="pwd">
+                </div>
+                <div class="form-group">
+                    <label for="auth">*权限</label>
+                    <eq name="IamRoot" value="true">
+                        <select class="form-control" id="auth" name="auth">
+                            <option value="{$ordinary}" selected>普通管理员</option>
+                            <option value="{$super}">超级管理员</option>
+                        </select>
+                    <else />
+                        <select class="form-control" id="auth" name="auth" disabled="disabled">
+                            <option value="{$ordinary}" selected>普通管理员</option>
+                        </select>
+                    </eq>
+                </div>
+                <div class="form-group">
+                    <label for="msg">备注信息</label>
+                    <input type="text" class="form-control" id="msg" name="msg">
+                </div>
+                <input type="submit" class="btn btn-primary" id="admin-subm" value="确认添加"/>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- ============== -->
+<include file="Public:footer"/>

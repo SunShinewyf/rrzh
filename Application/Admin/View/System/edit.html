@@ -1,0 +1,138 @@
+<include file="Public:header"/>
+<!-- ============== -->
+<div class="title">
+    <img src="__IMAGES__/set-db.png"/><h2>设置栏目</h2>
+</div>
+<div class="boxwrap">
+    <div class="box">
+        <div class="box-title">
+            版块说明
+        </div>
+        <div class="box-content">
+            <p>你可以在这里更改网站中，文章栏目的设置，目前只支持二级目录。需要提醒的是，网站前端的结构已经成型，如果确实要更改，请先联系本站开发人员。</p>
+            <p>栏目描述是指某栏目的文章列表上面的描述文字，不需要该描述的栏目不会有“更改”按钮。</p>
+        </div>
+    </div>
+</div>
+<div class="boxwrap60">
+    <div class="box">
+        <div class="box-title">
+            当前栏目
+        </div>
+        <div class="box-content no-padding">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>栏目名称</th>
+                    <th>栏目别名</th>
+                    <th>父级栏目</th>
+                    <th>操作</th>
+                </tr>
+                </thead>
+                <tbody>
+                <volist name="cols" id="cols">
+                    <tr>
+                        <td>{$cols['cname']}</td>
+                        <td>{$cols['code']}</td>
+                        <td>{$cols['cparent']}</td>
+                        <td>
+                            <a href="__URL__/edit/code/{$cols['code']}" class="btn btn-warning btn-xs upd-col" code="{$cols['code']}">修改</a>
+                        </td>
+                    </tr>
+                </volist>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="boxwrap40">
+    <div class="box">
+        <div class="box-title">
+         <if condition="$action eq 'SetColumn'">
+            添加新栏目
+          <else/>
+            修改栏目
+        </div>
+            </if>
+       
+        <div class="box-content">
+           <form action="__URL__/SaveEdit" method="post" id="form-column">
+                <div class="form-group">
+                    <label for="cname">栏目名称</label>
+                    <input type="text" class="form-control" id="cname" name="cname" value="{$result['cname']}" placeholder="填写栏目名称">
+                </div>
+                <div class="form-group">
+                    <label for="code">别名</label>
+                    <input type="text" class="form-control" id="code" value="{$result['code']}" name="code" placeholder="栏目的别名">
+                    <p class="help-block">请使用栏目名称的拼音缩写，不能与现有的重复</p>
+                </div>
+                <div class="form-group">
+                    <label for="cparent">父级</label>
+                    <select class="form-control" id="cparent" name="cparent">
+                        <option value="0" selected>无</option>
+                        <volist name="parcol" id="parcol">
+                            <option value="{$parcol['code']}" <if condition="$parcol['code'] eq $result['cparent']">selected </if>>{$parcol['cname']}</option>
+                        </volist>
+                    </select>
+                </div>
+                <button type="botton" class="btn btn-primary" id="column-subm">确认修改</button>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="ColumnDescribeModal" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form action="__URL__/SaveColDescribe" method="post">
+            <div class="modal-body">
+                <strong>栏目：</strong>
+                <span id="colname"></span>
+                <br/><br/>
+                <textarea id="col-describe" name="describe"></textarea>
+                <input type="hidden" name="code" id="code4upd" value=""/>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+                <input type="submit" class="btn btn-primary" value="确定"/>
+            </div>
+            </form>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- loading -->
+<div class="modal fade" id="loading" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="__STYLE__/img/loading.gif" id="load-img"/>
+                <span style="line-height: 16px;margin-left: 20px;" id="load-tips">载入中，请稍候……</span>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- =================== -->
+<script charset="utf-8" src="__STYLE__/editor/kindeditor-min.js"></script>
+<script>
+    KindEditor.ready(function(K) {
+        window.editor = K.create('#col-describe',{
+            resizeType: '2',
+            width: '100%',
+            height: '400px',
+            cssData: 'body { font-size: 14px; }',
+            fillDescAfterUploadImage: 'true',
+            uploadJson: '__APP__/Essay/upload_json',
+            items: [
+                'source', 'undo', 'redo', 'cut', 'copy', 'paste',
+                'plainpaste', '|', 'justifyleft', 'justifycenter', 'justifyright',
+                'justifyfull', 'insertorderedlist', 'insertunorderedlist', 'indent', 'outdent', 'subscript',
+                'superscript', 'clearhtml', 'quickformat', 'selectall', '|', 'fullscreen', '/',
+                'formatblock', 'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold',
+                'italic', 'underline', 'strikethrough', 'lineheight', 'removeformat', '|', 'image',
+                'insertfile', 'table', 'hr', 'baidumap',
+                'anchor', 'link', 'unlink', '|', 'about'
+            ]
+        });
+    });
+</script>
+<include file="Public:footer"/>

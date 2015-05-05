@@ -1,0 +1,42 @@
+<include file="Public:header"/>
+<!-- ================ -->
+<div class="title">
+    <img src="__IMAGES__/set-db.png"/><h2>修改个人信息</h2>
+</div>
+<div class="boxwrap40">
+    <div class="box">
+        <div class="box-title">
+            修改登录密码
+        </div>
+        <div class="box-content">
+            <form id="form-owninfo" action="__URL__/SaveOwnInfo" method="post">
+                <div class="form-group">
+                    <label for="curpwd">当前密码</label>
+                    <input type="password" id="curpwd" class="form-control" name="curpwd" />
+                </div>
+                <div class="form-group">
+                    <label for="pwd">新密码</label>
+                    <input type="password" id="pwd" class="form-control" name="pwd" />
+                </div>
+                <div class="form-group">
+                    <label for="pwd2">确认新密码</label>
+                    <input type="password" id="pwd2" class="form-control" name="pwd2" />
+                </div>
+                <input type="submit" id="subm-owninfo" class="btn btn-primary" value="确认修改" />
+            </form>
+        </div>
+    </div>
+</div>
+<div class="boxwrap60">
+    <div class="box">
+        <div class="box-title">
+            版块说明
+        </div>
+        <div class="box-content">
+            <p>你可以在本版块修改你的个人信息。</p>
+            <p>当前可以修改的有：登录密码</p>
+        </div>
+    </div>
+</div>
+<!-- ================ -->
+<include file="Public:footer"/>

@@ -1,0 +1,80 @@
+<include file="Public:header"/>
+    
+    <div id="container">
+       <div class="main-left">
+          <div class="parts">
+               <h1>栏目导航</h1>
+               <div class="content">
+                <ul class="list">
+                  <li><a href="">公司简介</a></li>
+                  <li><a href="">领导寄语</a></li>
+                  <li><a href="">合作伙伴</a></li>
+                </ul>
+               </div>
+           </div>
+    <include file="Public:main_left"/>
+        <div class="main-right">
+            <div class="detail">
+                <div class="title">
+                    公司简介
+                </div>
+                <hr>
+                <div class="all-list">
+                    <div class="title-list">
+                        <div class="theme">活动策划<span><a href="__URL__/Essaylist/code/hdch">more...</a></span></div>
+                        <ul class="ul-text">
+                           <volist name="hdch" id="li1">
+                              <li class="style1"><a href="__URL__/EssayDetail/e/{$li1['eid']}">{$li1['etitle']|subtext=12}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>{$li1['erevise']}</span></li>
+                           </volist>
+                        </ul>
+                    </div>
+                    <div class="title-list">
+                       <div class="theme">趣味运动<span><a href="__URL__/Essaylist/code/qwyd">more...</a></span></div>
+                        <ul class="ul-text">
+                            <volist name="qwhd" id="li2">
+                              <li class="style1"><a href="__URL__/EssayDetail/e/{$li2['eid']}">{$li2['etitle']|subtext=12}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>{$li2['erevise']}</span></li>
+                           </volist>
+                        </ul>
+                    </div>
+                    <div class="title-list">
+                       <div class="theme">赛事承办<span><a href="__URL__/Essaylist/code/sscb">more...</a></span></div>
+                        <ul class="ul-text">
+                           <volist name="sscb" id="li3">
+                              <li class="style1"><a href="__URL__/EssayDetail/e/{$li3['eid']}">{$li3['etitle']|subtext=12}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>{$li3['erevise']}</span></li>
+                           </volist>
+                        </ul>
+                    </div>
+                    <div class="title-list">
+                        <div class="theme">招生培训<span><a href="__URL__/Essaylist/code/zspx">more...</a></span></div>
+                        <ul class="ul-text">
+                           <volist name="zspx" id="li4">
+                              <li class="style1"><a href="__URL__/EssayDetail/e/{$li4['eid']}">{$li4['etitle']|subtext=12}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>{$li4['erevise']}</span></li>
+                           </volist>
+                        </ul>
+                    </div>
+               </div>
+              <div class="img-show">
+               <div class="title">图片展示</div>
+               <hr>
+               <div class="img"><img src="__PUBLIC__/Images/static/1.jpg"/>
+                   <div class="desc">趣味运动</div>
+               </div>
+               <div class="img"><img src="__PUBLIC__/Images/static/2.jpg"/>
+                   <div class="desc">趣味运动</div>
+               </div>
+               <div class="img"><img src="__PUBLIC__/Images/static/3.jpg"/>
+                   <div class="desc">趣味运动</div>
+               </div>
+               <div class="img"><img src="__PUBLIC__/Images/static/4.jpg"/>
+                   <div class="desc">趣味运动</div>
+               </div>
+            </div>
+            </div>
+             
+        </div>
+
+    </div>
+    
+ <include file="Public:footer"/>
+    
+    

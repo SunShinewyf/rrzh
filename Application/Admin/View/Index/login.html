@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <title>{$pagetitle}</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="__CSS__/base.css"/>
+    <link rel="stylesheet" type="text/css" href="__CSS__/admin.css"/>
+    <style>
+        body{overflow: hidden; position: relative;}
+        .tf-tips{margin: 0; text-align: center;}
+    </style>
+</head>
+<body>
+<div id="pageinfo">
+    <!--警告&成功-->
+    <present name="pageError">
+        <div class="tf-tips error"><span class="close-tips" title="关闭"></span>{$pageError}</div>
+    </present>
+    <present name="pageSuccess">
+        <div class="tf-tips success"><span class="close-tips" title="关闭"></span>{$pageSuccess}</div>
+    </present>
+    <!-- ========= -->
+</div>
+<div id="login">
+    <div class="logo"></div>
+    <div class="login-top"></div>
+    <form action="__URL__/SubmLogin" method="post" id="form-login">
+        <div class="login-main">
+            <div class="field">
+                <label>管理员帐号</label>
+                <input type="text" name="aname" id="aname"/>
+            </div>
+            <div class="field">
+                <label>管理员密码</label>
+                <input type="password" name="apwd" id="apwd"/>
+            </div>
+        </div>
+        <div class="login-bottom">
+            <input type="submit" id="login-subm" class="btn" value="登录"/>
+        </div>
+    </form>
+</div>
+</body>
+<script type="text/javascript" src="__JS__/jquery.js"></script>
+<script type="text/javascript" src="__JS__/admin.js"></script>
+</html>
