@@ -158,7 +158,6 @@ class EssayController extends CommonController {
      * info：若正确，返回跳转路径；如错误，为错误信息；
      */
     public function  SaveEssay(){
-       // dump($_POST);
         if( $_POST ){
             $ret = array();
             if( empty($_POST['edetail']) || empty($_POST['etitle'])
@@ -190,11 +189,7 @@ class EssayController extends CommonController {
                 $data['aname'] = session('adminName');
 
                 $id=$essay->create($data);
-               //  dump($id);
                 $result= $essay->add();
-               // dump($essay->getLastSql());
-               //  dump($result);
-               //  exit;
 
             }
            
@@ -226,23 +221,4 @@ class EssayController extends CommonController {
         $this->redirect('AllEssay');
     }
 
-    ///////////////////////////// 编辑器上传图片等内容
-    public function upload_json(){
-        import('ORG.Net.UploadFile');
-        $upload = new \Think\Upload();// 实例化上传类
-        $upload->maxSize  = 3145728 ;// 设置附件上传大小，3M
-        $upload->allowExts  = array('jpg', 'gif', 'png', 'jpeg');// 设置附件上传类型
-        $upload->savePath =  './essay/';// 设置附件上传目录
-        $upload->autoSub = true;
-        $upload->subType = 'date';
-        if(!$upload->upload()) {// 上传错误提示错误信息
-            $data['error'] = 1;
-            $data['message'] = $upload->getError();
-        }else{// 上传成功
-            $fileinfo = $upload->getUploadFileInfo();
-            $data['error'] = 0;
-            $data['url'] = '../../Uploads/essay/'.$fileinfo[0]['savename'];
-        }
-        $this->ajaxReturn($data,'JSON');
-    }
 }

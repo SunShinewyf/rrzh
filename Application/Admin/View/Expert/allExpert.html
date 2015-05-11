@@ -13,7 +13,7 @@
         </div>
     </div>
 </div>
-<div class="boxwrap60">
+<div class="boxwrap80">
     <div class="box">
         <div class="box-title">所有专家</div>
         <div class="box-content no-padding">
@@ -22,7 +22,7 @@
                 <tr>
                     <th>#</th>
                     <th>姓名</th>
-                    <th>简介</th>
+                    <th>照片</th>
                     <th>添加时间</th>
                 </tr>
                 </thead>
@@ -37,50 +37,14 @@
                                 <a href="__URL__/DeleteExpert/id/{$vo['tid']}" class="conf-del btn btn-xs btn-danger">删除</a>
                             </div>
                         </td>
-                        <td>{$vo['tdetail']}</td>
-                        <td>{$vo['aid']}<br/>{$vo['ttime']}</td>
-                    </tr>
+                        <td>{$vo['tpic']}</td>
+                        <td>{$vo['ttime']}</td>
                 </volist>
                 </tbody>
             </table>
         </div>
     </div>
 </div>
-<div class="boxwrap40">
-    <div class="box">
-        <div class="box-title">
-            添加新专家
-        </div>
-        <div class="box-content">
-            <form action="__URL__/saveFile" enctype="multipart/form-data" method="post" id="export-add">
-                <div class="form-group">
-                    <label for="name">*教练名</label>
-                    <input type="text" class="form-control" id="name" name="name" placeholder="填写教练名">
-                </div>
-                <div class="form-group">
-                    <label for="file">选择文件</label>
-                    <input type="file" id="sfile" name="sfile">
-                    <p class="help-block">请务必选择360*230的图片，不超过2MB</p>
-                </div>
-                <div class="form-group">
-                    <label for="describ">描述信息</label>
-                    <input type="text" class="form-control" id="describ" name="describ">
-                </div>
-                <button type="submit" class="btn btn-primary" id="export-subm">确认提交</button>
-            </form>
-        </div>
-    </div>
-</div>
 
-<script type="text/javascript">
-
-    var SelectData = $.parseJSON('{$sublist}');
-    var ParData = $.parseJSON('{$ParColumn}');
-    var isRevise = "{$isRevise}", par = "{$par}", sub = "{$sub}", essay = $.parseJSON('{$essay}');/*{//需要放在引号里，防止被js误解析}*/
-    $(document).ready(CheckSelectData);
-    $(document).ready(CheckRevise);
-
-
-</script>
 <!-- footer -->
 <include file="Public:footer"/>

@@ -4,6 +4,7 @@
      <title>人人众合</title>
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
      <link rel="stylesheet" type="text/css" href="/rrzh/Public/Css/home.css"/>
+    <script type="text/javascript" src="/rrzh/Public/Js/jquery.js"></script>
      
    </head>
    <body>
@@ -17,6 +18,7 @@
                   <?php if(is_array($Subcols)): $i = 0; $__LIST__ = $Subcols;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$li): $mod = ($i % 2 );++$i; if($vo['code'] == $li['cparent']): ?><li><a href="/rrzh/index.php/Home/Index/Essaylist/code/<?php echo ($li['code']); ?>"><?php echo ($li['cname']); ?></a></li><?php endif; endforeach; endif; else: echo "" ;endif; ?>
               </ul>
            </li><?php endforeach; endif; else: echo "" ;endif; ?>
+        <li><a href="/rrzh/index.php/index.php/Home/Jlfc">教练风采</a></li>
     </ul>
     </div>
   </div>
@@ -113,47 +115,48 @@
                </div>
               <div class="img-show">
                <div class="title">图片展示</div>
-               <hr>
-            <div id="scroller_roll1" class="scroller_roll">
-                <ul>
-                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/1.jpg"/></a>
-         <!--               <div class="desc">趣味运动</div> -->
-                   </li>
-                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/2.jpg"/></a>
-                       <!-- <div class="desc">趣味运动</div> -->
-                   </li>
-                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/3.jpg"/></a>
-                       <!-- <div class="desc">趣味运动</div> -->
-                   </li>
-                   <li class="img"><a href=""><img src="/rrzh/Public/Images/static/4.jpg"/></a>
-                       <!-- <div class="desc">趣味运动</div> -->
-                   </li>
-                </ul>
+
+            <div id="colee_left">
+                <table cellpadding="0" cellspacing="0" border="0">
+                <tr><td id="colee_left1" valign="top" align="center">
+                <table cellpadding="2" cellspacing="0" border="0">
+                <tr align="center">
+
+                <td><a href="" target="_blank" title="趣味运动"><img src="/rrzh/Public/Images/static/1.jpg"/><br><span>趣味运动</span></a></td>
+                <td><a href="" target="_blank" title="休闲活动策划"><img src="/rrzh/Public/Images/static/2.jpg"/><br><span>休闲活动策划</span></a></td>
+                <td><a href="" target="_blank" title="企业活动策划"><img  src="/rrzh/Public/Images/static/3.jpg"/><br><span>企业活动策划</span></a></td>
+                <td><a href="" target="_blank" title="大赛策划"><img src="/rrzh/Public/Images/static/4.jpg"/><br><span>大赛策划</span></a></td>
+                </tr>
+                </table>
+                </td>
+                <td id="colee_left2" valign="top"></td>
+                </tr>
+                </table>
+       
             </div>
+
+            <script>
+                var speed=30
+                var colee_left2=document.getElementById("colee_left2");
+                var colee_left1=document.getElementById("colee_left1");
+                var colee_left=document.getElementById("colee_left");
+                colee_left2.innerHTML=colee_left1.innerHTML
+                function Marquee3(){
+                if(colee_left2.offsetWidth-colee_left.scrollLeft<=0)
+                colee_left.scrollLeft-=colee_left1.offsetWidth
+                else{
+                colee_left.scrollLeft++
+                }
+                }
+                var MyMar3=setInterval(Marquee3,speed)
+                colee_left.onmouseover=function() {clearInterval(MyMar3)}
+                colee_left.onmouseout=function() {MyMar3=setInterval(Marquee3,speed)}
+                </script>
             </div>
           </div> 
-        </div>
-
+      </div>
     </div>
-   <script type="text/javascript" src="/rrzh/Public/Js/jquery.js"></script>
-   <script language="javascript" type="text/javascript">
-            $(function() {
-                $("#scroller_roll1").scroller_roll({
-                    title_show: 'enable',//enable  disable
-                    time_interval: '15',
-                    window_background_color: "#C1F0FF",
-                    window_padding: '1',
-                    border_size: '1',
-                    border_color: '#0099CC',
-                    images_width: '75',
-                    images_height: '70',
-                    images_margin: '5',
-                    title_size: '12',
-                    title_color: 'black',
-                    show_count: '3'
-                });
-            });
-        </script>
+  
         
  <div id="footer">
      <p>Powerby SunShine &nbsp;&nbsp;&nbsp 鄂ICP备15002472号-1</p>

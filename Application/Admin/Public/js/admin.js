@@ -226,7 +226,7 @@ $(function(){
     });
 
     ///////////////////////// 修改栏目描述
-    $(".upd-col").click(function(){
+    $(".upload_jsond-col").click(function(){
         var code = $(this).attr("code");
         $("#loading").modal("show");
         $.get(
@@ -252,6 +252,8 @@ $(function(){
     });
 ////////////////////教练信息的验证
      $("#export-add").submit(function(){
+         editor.sync();
+         var edetail = $('#edetail');
          var name = $('#name');
          if(name.val() == "")
          {
@@ -259,6 +261,11 @@ $(function(){
             name.focus();
             return false;
          }
+        if( !edetail.val() ){
+            setError("请编辑教练信息！");
+            edetail.focus();
+            return false;
+        }
      });
 
 //////////////////////链接信息表的验证

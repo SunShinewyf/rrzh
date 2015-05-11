@@ -1,0 +1,604 @@
+[ 2015-05-07T16:28:17+08:00 ] ::1 /rrzh/index.php/Admin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:28:17+08:00 ] ::1 /rrzh/index.php/Admin/Index/login.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:43:38+08:00 ] ::1 /rrzh/index.php/Admin/Index/SubmLogin
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_admin` [ RunTime:0.039971s ]
+SQL: SELECT * FROM `rz_admin` WHERE ( aname='admin' ) LIMIT 1   [ RunTime:0.046317s ]
+
+[ 2015-05-07T16:43:38+08:00 ] ::1 /rrzh/index.php/Admin/Index/index
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:43:51+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:44:04+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:51:50+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:51:58+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:54:24+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:54:31+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:56:32+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:56:38+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:58:38+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:58:45+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:59:14+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T16:59:21+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:07:32+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:07:40+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:08:41+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:08:49+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:08:55+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:09:24+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:09:30+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:10:27+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:10:34+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:10:34+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__UPLOAD__/essay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__upload__
+
+[ 2015-05-07T17:10:35+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__UPLOAD__/essay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__upload__
+
+[ 2015-05-07T17:17:04+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:17:12+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:21:33+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:21:34+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__UPLOAD__/essay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__upload__
+
+[ 2015-05-07T17:21:50+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__UPLOAD__/essay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__upload__
+
+[ 2015-05-07T17:22:21+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:22:30+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:22:30+08:00 ] ::1 /rrzh/index.php/Admin/Essay/essay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:essay
+
+[ 2015-05-07T17:26:43+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:26:51+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:28:52+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:29:00+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:29:00+08:00 ] ::1 /rrzh/index.php/Admin/Essay/__UPLOAD__/attached
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__upload__
+
+[ 2015-05-07T17:29:41+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T17:29:49+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:24:31+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:26:09+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:26:15+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:26:45+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:27:13+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:27:20+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:27:53+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:28:01+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:28:17+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:28:23+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:28:42+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:29:41+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:31:31+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:31:38+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:36:11+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:36:16+08:00 ] ::1 /rrzh/index.php/Admin/Essay/upload_json?dir=image
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:upload_json
+
+[ 2015-05-07T18:37:16+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:38:30+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:41:58+08:00 ] ::1 /rrzh/index.php/Admin/Essay/BuildEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:42:58+08:00 ] ::1 /rrzh/index.php/Admin/Essay/SaveEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004405s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead G:\wamp\www\rrzh\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `rz_essay` [ RunTime:0.041863s ]
+SQL: INSERT INTO `rz_essay` (`edetail`,`etitle`,`efrom`,`code`,`ebuild`,`aname`) VALUES ('<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	一篇感动上千万人的电话，可能你不会相信，我知道有很多很多的人都是为了生活为了<a href=\"http://www.dxsbb.com/news/list_82.html\" class=\"keyWord\" target=\"_blank\"><strong>学习</strong></a>为了各种理由而离家的，在这里看这篇<a href=\"http://www.dxsbb.com/news/list_32.html\" class=\"keyWord\" target=\"_blank\"><strong>文章</strong></a>你是否也感触很深呢？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　<span style=\"color:#FFFFFF;background-color:#0066FF;\">高中：</span>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：妈，我没钱了，打点钱吧！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：多少？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：200。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　爸：300吧，钱多放点，注意身体。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：那我上课了，记得早点给我打钱。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　第二天，存折上多了500……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　<span style=\"color:#FFFFFF;background-color:#0066FF;\"><a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%D2%BB.html\" class=\"keyWord\" target=\"_blank\"><strong>大一</strong></a>：</span>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：妈，我想家了……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：那啥时候回来？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　爸：是缺钱了吧？爸给你打！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：不，是不习惯，就是想家……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　爸妈：嗯，那放假早点回来，早点买票，注意身体。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　后来爸告诉我，那天放下电话，妈哭了，非怪爸当年任由我选了这个陌生的城市。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　<span style=\"color:#FFFFFF;background-color:#0066FF;\"><a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%B6%FE.html\" class=\"keyWord\" target=\"_blank\"><strong>大二</strong></a>：</span>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：这么久没给家打电话，都忙什么呢？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：事情多啊，没时间哎！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　爸：你妈想你了……她一个人在家，没事多给她打打电话……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：好，我知道了，最近太忙，等有时间再打！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　<span style=\"color:#FFFFFF;background-color:#0066FF;\"><a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%C8%FD.html\" class=\"keyWord\" target=\"_blank\"><strong>大三</strong></a>：</span>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　爸：什么时候的车，回来我去接你啊？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：不用了，今晚在同学家吃饭。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：我做了一桌子的饭菜，咋又不回来了呢？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：难得回家和同学聚聚……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：你也难得回家！我们半年才见你一次啊！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　终于到家了，饭时已过，见桌上满满的菜几乎没动，老妈说：“你不在，你爸喝酒都没心思……”\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　<span style=\"color:#FFFFFF;background-color:#0066FF;\"><a href=\"http://www.dxsbb.com/news/?list_mark-%B4%F3%CB%C4.html\" class=\"keyWord\" target=\"_blank\"><strong>大四</strong></a>实习：</span>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：妈，实习太苦了，我要回家……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：回家，歇着，妈养得起！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　爸：回家，你爸还能干活，连你都养不起，我白混了！\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　他们的话让我很没志气地跑回家躲了很多天……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　<span style=\"color:#FFFFFF;background-color:#0066FF;\">外地<a href=\"http://www.dxsbb.com/news/list_37.html\" class=\"keyWord\" target=\"_blank\"><strong>工作</strong></a>：</span>\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：最近还忙啊，吃饭了没有？\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：嗯，挺忙，随便吃了点面。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈：不能光吃面，营养要跟上，哪怕到外面点个菜吃。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　我：好，我知道了。\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　过年回家，院子里晒了N多干货、腊肠、腌鱼……\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　老妈说：“这些不烦神，直接就可以烧了吃，比面条好多了。”\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	<br />\n</div>\n<div style=\"font-family:\'Microsoft YaHei\', Arial, Helvetica, sans-serif;font-size:15px;background-color:#FFFFFF;\">\n	　　妈冬天手都是开裂的，那些腌肉，都是用盐细细码好的……\n</div>','三分钟的电话，竟成了父母最大的奢望！','信息学院','hdch','2015-05-07 18:42:58','admin') [ RunTime:0.208815s ]
+
+[ 2015-05-07T18:43:01+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:44:39+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T18:44:41+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:03:50+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:03:50+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:04:52+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:04:54+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:04:54+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:05:05+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:16:27+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:17:02+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:17:15+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:17:27+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:18:19+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:18:34+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:18:34+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:18:56+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:18:58+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:19:05+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:19:53+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:22:16+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:22:24+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:22:24+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:22:34+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:22:41+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:27:43+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:29:43+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:29:50+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:30:14+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:35:19+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:36:48+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:36:48+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:36:51+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:37:42+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:38:29+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:38:50+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:38:57+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:39:36+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:39:37+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:39:43+08:00 ] ::1 /rrzh/index.php/Admin/Expert/__ROOT__
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__root__
+
+[ 2015-05-07T19:40:04+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:40:22+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:42:01+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:42:18+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:42:42+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:42:51+08:00 ] ::1 /rrzh/index.php/Admin/Expert/DeleteExpert/id/1
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:42:51+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:42:54+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:43:47+08:00 ] ::1 /rrzh/index.php/Admin/Expert/saveFile
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:43:47+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:45:00+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:45:33+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:46:08+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:46:39+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:47:16+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:47:31+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:48:28+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:49:08+08:00 ] ::1 /rrzh/index.php/Admin/Essay/AllEssay
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:49:55+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:49:57+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:50:00+08:00 ] ::1 /rrzh/index.php/Admin/Expert/ExpertAdd
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:50:02+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:50:29+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:52:08+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:52:38+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:52:41+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T19:53:05+08:00 ] ::1 /rrzh/index.php/Admin/Expert/allExpert
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:02:39+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:02:39+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-07T20:02:45+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/lxwm
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:02:45+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:02:45+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-07T20:02:53+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:02:53+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-07T20:03:42+08:00 ] ::1 /rrzh/index.php/Admin/System/delete/code/jlfc
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:03:42+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:03:43+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-07T20:03:46+08:00 ] ::1 /rrzh/index.php/Admin/System/SetColumn.html
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+
+[ 2015-05-07T20:03:46+08:00 ] ::1 /rrzh/index.php/Admin/System/__STYLE__/editor/kindeditor-min.js
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant SITE_ROOT - assumed 'SITE_ROOT' G:\wamp\www\rrzh\Application\Admin\Conf\config.php 第 8 行.
+ERR: 非法操作:__style__
+
+[ 2015-05-07T20:06:11+08:00 ] ::1 /rrzh/index.php/Home/Index/Jlfc
+ERR: 非法操作:jlfc
+
+[ 2015-05-07T20:06:47+08:00 ] ::1 /rrzh/index.php/Home/Index/Jlfc
+ERR: 非法操作:jlfc
+
+[ 2015-05-07T20:06:50+08:00 ] ::1 /rrzh/index.php/Home/Index/Jlfc
+ERR: 非法操作:jlfc
+
+[ 2015-05-07T20:06:53+08:00 ] ::1 /rrzh/index.php/Home/Index/Jlfc
+ERR: 非法操作:jlfc
+
+[ 2015-05-07T20:07:08+08:00 ] ::1 /rrzh/index.php/Home/Index/Jlfc
+ERR: 非法操作:jlfc
+

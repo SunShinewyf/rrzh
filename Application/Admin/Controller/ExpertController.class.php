@@ -15,8 +15,16 @@ class ExpertController extends CommonController {
         $this->assign('experts',$list);
         $this->display();
     }
-    public function saveFile(){
 
+     //添加新教练
+     public function ExpertAdd(){
+        $this->display();
+     }
+
+     ////////////////保存教练信息
+    public function saveFile(){
+        // dump($_POST);
+        // exit;
          $this->chkLogin();
         if($_POST){
              if( empty($_POST['name']) ){
@@ -29,15 +37,13 @@ class ExpertController extends CommonController {
             $upload->exts  = array('jpg', 'gif', 'png', 'jpeg');// 设置附件上传类型
             $upload->savePath = './coach/';// 设置上传目录，注意写法
             $fileInfo = $upload->upload();
-            // dump($fileInfo);
-            // exit;
             if(!$fileInfo) {// 上传错误提示错误信息
                 $this->setError($upload->getError());
             }else{
             $teacher = M('Teacher');
             $data['tpic'] = $fileInfo['sfile']['savename']; //因为支持多文件，所以这里是二维数组
             $data['tname'] = $_POST['name'];
-            $data['tdetail'] = $_POST['describ'];
+            $data['tdetail'] = $_POST['edetail'];
             $data['ttime'] = date("Y-m-d H:i:s",time());
 
              if( isset($_GET['tid']) && is_numeric($_GET['tid']) ){
@@ -45,16 +51,22 @@ class ExpertController extends CommonController {
                 $result = $teacher->where("tid = $tid")->save($data);
             }else{
                 $data['ttime'] = date("Y-m-d H:i:s",time());
-               
-                $teacher->create($data);
+                // dump($data);
+                // exit;
+                $re=$teacher->create($data);
+                // dump($re);
+
                 $result= $teacher->add();
+                //       dump($teacher->getLastSql());
+                // dump($result);
+                // exit;
             }
            
             if($result === false){
                  unlink( $upload->savePath.$fileInfo[0]['name'] );
                  $this->setError("数据保存失败!请重试...");
             }else{
-                $this->setSuccess('数据保存成功！<a href="__ROOT__" target="_blank">去首页看看</a>');
+                $this->setSuccess('数据保存成功!');
             }
             
         }
@@ -87,5 +99,5 @@ class ExpertController extends CommonController {
          $this->redirect('allExpert');
      }
 
-
+    
 }

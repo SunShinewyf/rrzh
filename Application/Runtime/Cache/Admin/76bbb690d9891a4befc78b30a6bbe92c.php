@@ -35,6 +35,7 @@
     <div class="menu-list">专家风采</div>
     <ul class="menu-option">
         <li><a href="/rrzh/index.php/Admin/Expert/allExpert">教练管理</a></li>
+        <li><a href="/rrzh/index.php/Admin/Expert/ExpertAdd">添加教练</a></li>
     </ul>
     <div class="menu-list">下载中心</div>
     <ul class="menu-option">
@@ -153,7 +154,7 @@
             height: '600px',
             cssData: 'body { font-size: 14px; }',
             fillDescAfterUploadImage: 'true',
-            uploadJson: '/rrzh/index.php/Admin/Essay/upload_json',
+            // uploadJson: '/rrzh/index.php/Admin/Essay/upload_json',
             afterCreate: function(){ $('.ke-container').css("border", "none")},
             items: [
                 'source', 'preview', '|', 'undo', 'redo', 'cut', 'copy', 'paste',

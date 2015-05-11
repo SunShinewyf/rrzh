@@ -10,4 +10,12 @@ function getpage($count, $pagesize = 10) {
     $p->lastSuffix = false;//最后一页不显示为总页数
     return $p;
 }
+
+   function subtext($text, $length)
+ {
+    if(mb_strlen($text, 'utf8') > $length) 
+    return mb_substr($text, 0, $length, 'utf8').'...';
+    return $text;
+ }
+
 ?>

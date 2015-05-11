@@ -272,19 +272,32 @@ height:33px; left:0; FONT-WEIGHT: bold; top:190px; position:absolute;}
 	color: #212223;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
+/*#slide{overflow:hidden;width:900px;margin:100px auto;}
+ul{list-style:none;}
+li{float:left;}
+.slideul1{width:3999px;}*/
 .img-show{
+	background:#fff; 
 	width: 700px;
 	height: 200px;
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
-.img-show ul{
-	list-style: none;
+#colee_left{
+	overflow: hidden;
 }
-.img-show .img{
-	width: 160px;
+
+#colee_left td{
 	height: 120px;
+	width: 160px; 
+	padding:0 5px;
+}
+#colee_left td span{
+	height:30px;line-height:30px;color:#333333;
+}
+#colee_left td a{text-decoration: none;}
+#colee_left .img{
+	cursor: pointer;
 	float: left;
 	margin-left: 12px;
 	margin-top: 10px;
@@ -300,8 +313,9 @@ height:33px; left:0; FONT-WEIGHT: bold; top:190px; position:absolute;}
 }
 
 .Essay-content{
+	border: 1px solid black;
     width: 660px;
-    height: 0 auto;
+    height: 400px;
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 40px;

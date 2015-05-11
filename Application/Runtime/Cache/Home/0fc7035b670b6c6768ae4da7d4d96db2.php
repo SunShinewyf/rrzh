@@ -4,6 +4,7 @@
      <title>人人众合</title>
      <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
      <link rel="stylesheet" type="text/css" href="/rrzh/Public/Css/home.css"/>
+    <script type="text/javascript" src="/rrzh/Public/Js/jquery.js"></script>
      
    </head>
    <body>

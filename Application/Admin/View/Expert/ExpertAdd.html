@@ -1,20 +1,20 @@
 <include file="Public:header"/>
-<!-- ======================= -->
+<!-- header end -->
 <div class="title">
-    <img src="__IMAGES__/set-db.png"/><h2>写新文章</h2>
+    <img src="__IMAGES__/set-db.png"/>
+
+    <h2>添加新教练</h2>
 </div>
+
 <div class="boxwrap">
     <div class="box">
-        <div class="box-title">
-            版块说明
-        </div>
-        <div class="box-content" id="BE-tips">
-            <p>你可以在本版块编辑并发布新的文章</p>
-            <p>有几个栏目，点击之后直接就是某篇文章。这样的文章其实就是“栏目描述”，一般不需要经常性修改。请联系“超级管理员”在“系统设置”->“栏目设置”下做修改。</p>
+        <div class="box-title">版块说明</div>
+        <div class="box-content">
+            <p>本板块可以添加新的教练</p>
         </div>
     </div>
 </div>
-
+<form action="__URL__/saveFile" enctype="multipart/form-data" method="post" id="export-add">
 <div class="boxwrap60">
     <div class="box">
         <div class="box-title">
@@ -22,7 +22,7 @@
         </div>
         <div class="box-content no-padding">
             <textarea name="edetail" id="edetail">
-                <present name="detail">{$detail}</present>
+                <present name="detail">{$Expertdetail}</present>
             </textarea>
         </div>
     </div>
@@ -30,36 +30,26 @@
 <div class="boxwrap40">
     <div class="box">
         <div class="box-title">
-            2、设置参数并提交
+            添加新专家
         </div>
-           <div class="box-content">
-            <form action="__URL__/SaveEssay" method="post" id="form-essay">
+        <div class="box-content">
+           
                 <div class="form-group">
-                    <label for="etitle">*文章标题</label>
-                    <input type="text" class="form-control" id="etitle" name="etitle" placeholder="填写文章标题">
+                    <label for="name">*教练名</label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="填写教练名">
                 </div>
                 <div class="form-group">
-                    <label for="efrom">*文章作者/来源</label>
-                    <input type="text" class="form-control" id="efrom" name="efrom" placeholder="填写文章作者或来源">
+                    <label for="file">选择文件</label>
+                    <input type="file" id="sfile" name="sfile">
+                    <p class="help-block">请务必选择360*230的图片，不超过2MB</p>
                 </div>
-                <div class="form-group">
-                    <label for="cpar">*选择所属栏目</label>
-                    <select class="form-control" id="cpar" name="cpar">
-                        <option value="0" selected>先选择父栏目</option>
-                        <volist name="parcol" id="parcol">
-                            <option value="{$parcol['code']}">{$parcol['cname']}</option>
-                        </volist>
-                    </select>
-                    <p class="help-block">选择父栏目后，选择子栏目</p>
-                    <select class="form-control" id="code" name="code" style="display: none;">
-                        <option value="0" selected>请先选择父栏目</option>
-                    </select>
-                </div>
-                <button type="botton" class="btn btn-primary" id="essay-subm">确认发布</button>
-            </form>
+                <button type="submit" class="btn btn-primary" id="export-subm">确认提交</button>
+          
         </div>
     </div>
 </div>
+</form>
+
 <!-- ================ -->
 <!-- loading -->
 <div class="modal fade" id="loading" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static">
@@ -83,7 +73,8 @@
             height: '600px',
             cssData: 'body { font-size: 14px; }',
             fillDescAfterUploadImage: 'true',
-            // uploadJson: '__URL__/upload_json',
+          //  uploadJson: '__URL__/upload_json',
+            afterBlur: function () { this.sync(); },
             afterCreate: function(){ $('.ke-container').css("border", "none")},
             items: [
                 'source', 'preview', '|', 'undo', 'redo', 'cut', 'copy', 'paste',

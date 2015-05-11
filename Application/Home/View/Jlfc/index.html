@@ -1,0 +1,53 @@
+<include file="Public:header"/>
+
+<div id="container">
+	 <div class="main-left">
+          <div class="parts">
+               <h1>{$ParCol['cname']}</h1>
+               <div class="content">
+                <ul class="list">
+                <volist name="SubCols" id="Su">
+                  <li><a href="__URL__/Essaylist/code/{$Su['code']}">{$Su['cname']}</a></li>
+                </volist>
+                </ul>
+               </div>
+           </div>
+    <include file="Public:main_left"/>
+    <div class="main-right">
+         <div class="detail">
+                <div class="title">
+                  <if condition="$parent eq '0'">
+                    当前位置&nbsp;:&nbsp;<a href="__URL__/Index">首页</a> >> <a href="__URL__/Essaylist/code/{$CurCol['code']}">{$CurCol['cname']}</a>
+                  <else/>
+                   当前位置&nbsp;:&nbsp;<a href="__URL__/Index">首页</a> >> <a href="__URL__/Essaylist/code/{$ParCol['code']}">{$ParCol['cname']}</a> >> <a href="__URL__/Essaylist/code/{$CurCol['code']}">{$CurCol['cname']}</a>
+                 </if>  
+                </div>
+                <hr>
+
+                <div class="Essay-condent">
+                     <ul class="expert-list">
+
+                     </ul>
+                     
+                </div>
+
+    </div>
+</div>
+</div>
+
+<include file="Public:footer"/>
+<script type="text/javascript">
+    window._bd_share_config = {
+        "common": {
+            "bdSnsKey": {},
+            "bdText": "【{$PageTitle}】 - 来自：人人众合公司！戳链接阅读原文-->",
+            "bdMini": "2",
+            "bdMiniList": false,
+            "bdPic": "",
+            "bdStyle": "1",
+            "bdSize": "24"
+        },
+        "share": {}
+    };
+    with (document)0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+    </script>
